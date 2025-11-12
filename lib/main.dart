@@ -1,4 +1,4 @@
-import 'package:app_common_bottom_navbar/animated_navbar/navbar_1/navbar1.dart';
+import 'package:app_common_bottom_navbar/animated_navbar/curved_navigation_bar/navbar1.dart';
 import 'package:flutter/material.dart';
 
 void main() {
