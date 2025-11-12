@@ -1,4 +1,4 @@
-import 'package:app_common_bottom_navbar/animated_navbar/curved_navigation_bar/navbar1.dart';
+import 'package:app_common_bottom_navbar/animated_navbar/bottom_navy_bar/bottom_navy_bar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,15 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: NavigationBar1(),
+      home: CustomizedBottomNavigationbar(),
     );
   }
 }
-
-
-
-
-
-
-
-
